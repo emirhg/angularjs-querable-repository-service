@@ -18,10 +18,6 @@ module.exports = function(config) {
       'src/**/*.ts'
     ],
 
-    karmaTypescriptConfig: {
-        tsconfig: "./tsconfig.spec.json"
-    },
-
     // list of files / patterns to exclude
     exclude: [
     ],
@@ -51,7 +47,8 @@ module.exports = function(config) {
           'subdirectory': 'coverage'
         },
         'text': null,
-      }
+      },
+      'tsconfig': './tsconfig.spec.json'
     },
 
     // enable / disable colors in the output (reporters and logs)
