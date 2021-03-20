@@ -8,6 +8,7 @@
   "private": false,
   "scripts": {
     "test": "karma start",
+    "dev": "karma start --singleRun=false --reporters=spec",
     "build": "yarn build:dist",
     "build:dist": "yarn test && yarn build:doc && yarn build:src",
     "build:doc": "typedoc",
