@@ -1,7 +1,7 @@
 {
-  "name": "graphorm",
+  "name": "angular-service-provider-sql",
   "version": "0.0.1",
-  "description": "Provides a storage service powered by TypeORM and GraphQL",
+  "description": "Provides a SQL Storage Service powered by TypeORM and GraphQL with Angular Service support.",
   "author": "Emir Herrera <emir.herrera@gmail.com>",
   "main": "dist/out-tsc/index.js",
   "license": "GPL-2.0-only",
