@@ -1,5 +1,5 @@
 {
-  "name": "angular-service-provider-sql",
+  "name": "angularjs-queryable-repository-service",
   "version": "0.0.1",
   "description": "Provides a SQL Storage Service powered by TypeORM and GraphQL with Angular Service support.",
   "author": "Emir Herrera <emir.herrera@gmail.com>",
